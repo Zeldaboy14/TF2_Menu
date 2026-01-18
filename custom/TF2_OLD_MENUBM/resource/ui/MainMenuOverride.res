@@ -180,6 +180,7 @@
 		}
 		if_fullmoon
 		{
+			//"image"		"../console/title_team_halloween"
 			"image"		"../console/title_team_halloween"
 		}
 		if_christmas
@@ -218,16 +219,32 @@
 //		"scaleImage"	"1"
 //	}
 
+	"TFCharacterImageHypie"
+	{
+	    "ControlName"	"ImagePanel"
+		"fieldName"		"TFCharacterImageHypie"
+		"xpos"			"165"
+		"ypos"			"52"
+		"zpos"			"-100"
+		"wide"			"380"
+		"tall"			"400"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../console/characters/medic"
+		"scaleImage"	"1"
+	}
+
+	// ACTUAL MEDAL MDL
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"250"
+		"xpos"			"265"
 		"ypos"			"cs-0.5-117"
 
 		"zpos"			"-91"
-		"wide"			"1000"
-		"tall"			"1000"
+		"wide"			"930"
+		"tall"			"930"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
@@ -308,6 +325,7 @@
 		"alpha"			"75"
 	}
 	
+	// Actual Medal Panel!!!!
 	"RankPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
