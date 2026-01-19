@@ -9,3 +9,5 @@
 Ahud - https://github.com/n0kk/ahud
 
 Old Menu - https://gamebanana.com/mods/27054
+
+Special thanks to @aarmastah for allowing me to provide his class portrits!
